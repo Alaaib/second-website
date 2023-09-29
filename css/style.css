@@ -308,6 +308,7 @@ display: grid;
 /* .section2{ background-color: aqua;} */
 .serv-img-item{display: flex; flex-direction: row; justify-content: space-between; font-size: larger;}
 .arrow{ background-color:rgb(78, 108, 80); color:rgb(240, 235, 206) ; padding: 5px; visibility: hidden;}
+.serv-img-item a{z-index: 11;}
 .aa:hover .arrow{visibility: visible;}
 .bb:hover .arrow{visibility: visible;}
 .cc:hover .arrow{visibility: visible;}
